@@ -1,0 +1,12 @@
+service: yc_container_marketplace
+title: K8S Marketplace
+arcanum:
+  review:
+    groups:
+      - name: yc-kmkt-approvers
+        roles: ["approver"]
+    rules:
+      - reviewers:
+          name: yc-kmkt-approvers
+          ship: 1
+

@@ -6,6 +6,7 @@
   "LICENSE":"opensource/crossplane-provider-yc/LICENSE",
   "Makefile":"opensource/crossplane-provider-yc/Makefile",
   "README.md":"opensource/crossplane-provider-yc/README.md",
+  "a.yaml":"opensource/crossplane-provider-yc/a.yaml",
   "apis/alb/v1alpha1/doc.go":"opensource/crossplane-provider-yc/apis/alb/v1alpha1/doc.go",
   "apis/alb/v1alpha1/zz_backendgroup_terraformed.go":"opensource/crossplane-provider-yc/apis/alb/v1alpha1/zz_backendgroup_terraformed.go",
   "apis/alb/v1alpha1/zz_backendgroup_types.go":"opensource/crossplane-provider-yc/apis/alb/v1alpha1/zz_backendgroup_types.go",
