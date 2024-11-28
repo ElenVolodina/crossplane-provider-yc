@@ -1,5 +1,5 @@
 {
-  "":"opensource/yc-alb-ingress-controller",
+  "":"opensource/crossplane-provider-yc",
   ".":"opensource/crossplane-provider-yc",
   ".gitignore":"opensource/crossplane-provider-yc/.gitignore",
   ".golangci.yml":"opensource/crossplane-provider-yc/.golangci.yml",
